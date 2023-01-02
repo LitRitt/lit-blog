@@ -1,3 +1,3 @@
-# ***Lit Sites***
+# ***Lit Blog***
 
-A base repo for my [Jekyll](https://github.com/jekyll/jekyll) sites
+A [jekyll](https://github.com/jekyll/jekyll) site for my blog
