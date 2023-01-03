@@ -1,8 +1,8 @@
-title: LitBlog
+title: Lit Blog
 author:
   name: LitRitt
   email: me@litritt.com
-description: The home of lit blogs
+description: The home of my blog
 url: "https://blog.litritt.com"
 github_url: "https://github.com/LitRitt/lit-blog" # GitHub link for footer link. Comment out to remove link
 
